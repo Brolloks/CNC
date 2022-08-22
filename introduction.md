@@ -14,7 +14,7 @@ Severe drought has caused decades of food shortages leaving more than a million 
 
 The consequences of deforestation are daunting and have harmed Madagascar’s biodiversity, soil, water, atmosphere and climate.
 
-**** TESTING PUSHING EDITS TO GITBOOK ****
+**** TESTING PUSHING EDITS TO GITBOOK FROM GITHUB ****
 
 #### Vision:
 
