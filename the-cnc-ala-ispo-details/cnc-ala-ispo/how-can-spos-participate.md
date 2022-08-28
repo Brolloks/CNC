@@ -18,4 +18,4 @@ Cardano community members will also have opportunities to donate directly to the
 
 #### Fill in the CNC Ala ISPO application form and ask the community to vote for you
 
-{% embed url="https://forms.gle/VnEifLmRM1aGmQQv5" %}
+{% embed url="https://st7u9y8236h.typeform.com/to/qK6OCsRA" %}
