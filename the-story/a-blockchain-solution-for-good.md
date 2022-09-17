@@ -1,15 +1,23 @@
 # A blockchain solution for good
 
-Running blockchain infrastructure can generate income that can be used to fund fabulous charity projects that act on the climate crisis. However, using the wrong blockchain can mean that all the good achieved by the donations is negated by the negative impacts of using that blockchain.
+For CNC, one key aspect of securing a decentralised blockchain network via Proof-of-Stake (PoS), is the ability to generate income in the form of the underlying currency, in the case of Cardano, “ADA,” that can be used to fund exceptional charity projects.&#x20;
+
+Our aim is not only to reverse global warming, but even profoundly change the way we produce & harvest our planet’s resources in the future. Conversely, using an energy intensive blockchain to generate funds for donations can mean that all the good achieved by the donations is negated by the negative impacts of using that blockchain.
 
 {% hint style="warning" %}
-Bitcoin requires ‘mining’ that uses similar amounts of energy to countries like Norway to achieve its security through its Proof-of-Work (PoW) protocol (6). This is just not sustainable and is indeed unnecessary if the same and more functionality can be achieved by other blockchains running a much more efficient Proof-of-Stake (PoS) protocol.&#x20;
+Bitcoin is a first generation blockchain and a profound technological achievement that has given birth to the next evolution of finance and governance. As in many cases, the first iteration of a new technology is typically not perfect, in the case of  Bitcoin it is well understood that the Proof-of-Work (PoW) consensus protocol requires similar amounts of energy to countries like Norway to secure the network (10).
 {% endhint %}
 
-This PoS protocol does not require electricity for ‘mining’ and instead uses less than a fraction of Bitcoins energy demand. Indeed publications show Cardano uses at least 10.000 times less energy (7,8) than Bitcoin.
+The same functionality can be achieved by other blockchains running a much more efficient Proof-of-Stake (PoS) protocol, which uses less than a fraction of Bitcoin’s energy demand.
 
-**Cardano** is the first PoS blockchain that proves that its Ouroboros protocol is just as secure as the Bitcoin blockchain (5). This difference is very important when we talk about the fight against global heating, because it allows Cardano to be secure without the wasteful use of energy required for ‘mining’. Furthermore, it allows Cardano to be run anywhere in the world, including poorer nations, without wasting essential resources.
+{% hint style="success" %}
+**Cardano** is the first PoS blockchain that proves that its Ouroboros protocol is just as secure as the Bitcoin blockchain (11). Reports show Cardano uses at least 10,000 times less energy (12,13) than Bitcoin.&#x20;
 
-Behind Cardano stands a mission-driven global community with the goal to make this world a better place.
+This difference is very important when we talk about the fight against global warming, because it allows Cardano to be secure without the intensive use of energy required for ‘mining’.&#x20;
 
-The CNCAla project is a brainchild of the Climate Neutral Cardano Community of Stake Pools. Our project funding aims to remove CO2 from the air and will help turn the negative impact onto the climate into a positive one. Even better, we connect and bond with the Tetikasa Ala community in Madagascar and create a partnership with unlimited possibilities.
+Furthermore, it lowers the barrier of entry for running a Cardano node significantly with the possibility to set up a validator node almost anywhere in the world, including poorer nations, without the need for resource intensive specialised hardware & infrastructure.
+{% endhint %}
+
+CNC is aspiring to build a mission-driven global community to stand behind Cardano, with the goal being to make this world a better place by mitigating climate change. The CNC Ala project is the realisation  of the Climate Neutral Cardano community of stake pools' combined efforts and vision.
+
+Our project funding aims to remove CO² from the atmosphere and offset the carbon footprint of the Cardano blockchain. In addition, we foster social  bonds with the Tetikasa Ala community in Madagascar to build partnerships that may sprout forth new and innovative opportunities between blockchain and real-world ecosystems.

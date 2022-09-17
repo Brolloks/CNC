@@ -1,7 +1,7 @@
 # Table of contents
 
 * [CNC Ala Project White Paper](README.md)
-* [👋 Introduction](introduction.md)
+* [👋 Summary](introduction.md)
 * [📖 Table of Contents](table-of-contents.md)
 * [📜 The Story](the-story/README.md)
   * [The Problem](the-story/the-problem.md)

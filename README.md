@@ -1,5 +1,5 @@
 ---
-description: CNC Ala Project and Token White paper
+description: CNC Ala Project and Token White paper (Version 1)
 cover: .gitbook/assets/beautiful-landscape-mountains-vang-vieng-laos.jpg
 coverY: 0
 ---

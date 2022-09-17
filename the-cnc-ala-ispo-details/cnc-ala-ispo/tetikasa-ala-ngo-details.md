@@ -1,24 +1,30 @@
 ---
-description: Charity details
+description: The Charity details
 ---
 
 # 📧 Tetikasa Ala - NGO details
 
 {% hint style="success" %}
-Tetikasa Ala is a Non-Profit Organization, created in 2019 and located in France and Madagascar with the objectives to create an ecosystem of actors of sustainable development and to fight against the deforestation of Madagascar.
+Tetikasa Ala is a non-profit organisation created in 2019, and located in France and Madagascar with the objective of creating an ecosystem of actors in sustainable development to fight against the deforestation of Madagascar.
 
-Their main activities are located in the Analamanga and Haute Matsiatra région of Madagascar. They count 40 direct beneficiaries and more than 200 households supported as indirect beneficiaries.
+The main activities of Tetikasa Ala are located in the Analamanga and Haute Matsiatra regions of Madagascar. Tetikasa Ala counts 40 direct beneficiaries and more than 200 households supported as indirect beneficiaries.
 {% endhint %}
 
-#### Vision
+#### The Vision
 
-TETIKASA ALA seeks to re-green and regenerate Madagascar's forests and soils while enabling local inhabitants to attain food and economic security.
+In 2017, Madagascar ranked 4th in terms of deforestation with 510,000 hectares destroyed in one year, representing the disappearance of 3.8% of the forests in Madagascar (48.5 times the area of Paris, source: Global Forest Watch (6)).&#x20;
 
-#### Mission
+Tetikasa Ala seeks to re-green and regenerate Madagascar's forests and soils while enabling local inhabitants to attain food and economic security. By developing vegetation and forest cover, while boosting local agroecology, they hope to feed the majority of the local population while combating deforestation.
 
-> _"Permaculture & Regenerative agriculture, natures answer staring us right in the face"_
+#### The Mission
 
-_Future Placeholder....._
+> _Permaculture & Regenerative agriculture, nature knows best!_
+
+The objective is to develop and train a team sourced from the local community to undertake sustainable development and agroecology in central Madagascar. To have this team train subsequent teams and generations to continue and spread this work in the future. This can be achieved through:
+
+1. Teaching, showing and practising sustainable management of forests, and combating deforestation by offering alternative practices and goals.
+2. Mitigation of desertification, land degradation, and loss of biodiversity, by teaching and constructing rainwater catch and storage systems, soil regeneration and permaculture forestry.
+3. Improving nutrition, and ensuring food security, by training locals in sustainable methods of regenerative agriculture.
 
 #### Management team
 
@@ -26,28 +32,22 @@ _Future Placeholder....._
 * Sarah Rakotoasimbola - Chief Operating Officer
 * Magali Dal Molin - Head of Field Projects
 
-Their experience and academic skills range from biology, geography, agronomy, management and design.
+Their experience and academic skills range from biology, geography, agronomy, management and design.  Members of the management team are generally Malagasy people born and having passed the baccalaureate in Madagascar.
 
-The members of the association are generally Malagasy people born and having passed the baccalaureate in Madagascar.
+Divided between Madagascar and France, most of the Tetikasa Ala members have studied abroad after the baccalaureate and are gradually coming back to the country to develop this project.
 
-Our members are divided between Madagascar and France. Most of them have studied abroad after the baccalaureate and are gradually coming back to the country to develop this project.
+The team in Madagascar is also comprised of locals who guide us and realise the core work of the projects.
 
-The team in Madagascar is also composed of locals who guide us and realize the heart of the projects.
+**A spark of resources kicking off a revolution**
 
-#### Connection to Madagascar
+Activities by the Tetikasa Ala NGO team in Madagascar started in 2019 and continued into 2020 with small funds largely provided by private investments of the founders. In 2021, the Tetikasa Ala team was able to raise their funding significantly to \~23,000 Euros for project work, with 13,645 Euros in grants awarded by the French government.&#x20;
 
-_Future Placeholder...._
+This funding allowed for the reforestation of the Ambohimanga Soamonina area to begin with.  Currently 0.6 hectares of land is being reforested and a lot of their action planning starting to become a reality. Much of this initial experience is providing the basis for the CNC Ala project goals, and as no 2022 funding was yet secured by Tetikasa Ala, we felt confident that CNC could help.
 
-#### Agroecology background and skills
+After our due diligence, auditing, and trust-building with the Tetikasa Ala team, the CNC group decided that the Tetikasa Ala project and team was a perfect fit with us.
 
-_Future Placeholder...._
+This agroecology project will not only put the plants into the ground now, but long term goals are addressing a bigger picture and aim to:
 
-#### Current project idea and story
-
-_Future Placeholder...._
-
-#### Previous funding
-
-_Future Placeholder...._
-
-Writing help- Background on vision from Elliot: [https://docs.google.com/document/d/1Xm1un53GHwBHjdx4D8z1TfASeDcIe-M72yoiFbt3fh8/edit?usp=sharing](https://docs.google.com/document/d/1Xm1un53GHwBHjdx4D8z1TfASeDcIe-M72yoiFbt3fh8/edit?usp=sharing)
+* [x] Preserve and restore ecosystems
+* [x] Halt and reverse land degradation
+* [x] Promote and develop sustainable agriculture

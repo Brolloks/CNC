@@ -8,7 +8,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Passive Members" %}
-**Passive CNC members** have to run their nodes on 100% renewable energy and give to environmental charities. They do not have to actively participate in the group’s meetings and hence are not directly contributing to any projects of the group. However, if you have not got any time to spare, but you donate and run on renewables you are very welcome to join. We want to have as many pools as possible to act on climate change.
+**Passive CNC members** have to run their nodes on 100% renewable energy and give to environmental charities. They do not have to actively participate in the group’s meetings and hence are not directly contributing to any projects of the group. However, those without any time to spare, who donate and run on renewables are very welcome to join. We want to have as many pools as possible to act on climate change.&#x20;
 
 On the other hand, if you do have time and want to be part of a buzzing and active community, we would like to encourage you to **become an Active member**.
 {% endtab %}
