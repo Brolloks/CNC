@@ -1,6 +1,6 @@
 # 🛠 Preparing the ISPO
 
-### **Learnings from the Cardano Forest project**
+### **Lessons from the Cardano Forest project**
 
 From our previous experience with the Cardano Forest project, the CNC group learned what is necessary for working on a large project together with partners, including project management, communication and consensus and that it is important to have a direct connection to the NGO team working on the ground. One of the challenging aspects of the Cardano Forest project was getting regular photo and video updates of the tree planting, which donors often asked for.
 
